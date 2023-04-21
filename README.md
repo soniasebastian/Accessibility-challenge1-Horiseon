@@ -1,27 +1,34 @@
 # Accessibility-challenge1-Horiseon
-In this challenge assignment I am trying to Improve the accessibility standards in order to get the website optimized for search engines.The source code is given and certain changes are made to make the website more effiecient with Git, semantic HTML elements and styling in a sequential order.
+
+
 ## Description
-A webpage http://127.0.0.1:5501/01-HTML-Git-CSS/02-Challenge/Develop/index.html is the one that i am working with.Here I am just refactoring the existing code to ensure that the people with disabilities can access this website more easily and avoid litigation.
-Accesibility includes complex criteria but based on specific criteria given below in acceptance criteria necessary alterations are being made.I am really interested in working with the sequencing of HTML elements and CSS styling and thus making it much more compatible and accessible so that people with disabilities can easily get through it.
+Application for providing different ways like SEO, Online Reputation Management, Social Media Marketing etc to improve the business.
 
 ## Table of Contents
 - # Installation
 - # Usage
 - # Credits
-- # License
+
 
 ## Installation
-The refactoring code is given and the same need to be worked with for improving the existing code to an efficent one and once done the same need to be deployed to github account.
+No installation required,Access the below link using any browser
+
+https://soniasebastian.github.io/Accessibility-challenge1-Horiseon/ 
+
 
 ## Usage
-To use this accessibility challenge, you can review the index.html file. For proper understanding, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see the alterations made for making the website more accessible.The screenshots have been provided in the repository.
+
+Use the links at the top corner of the MainPage.png image for navigating to the different sections shown in the SectionPage.png
+    
+    [Main page](assets/images/MainPage.png)
+    [Sections](assets/images/SectionPage.png)
+    
 
 ## Credits
-I would like to thank the instructor Nimit for just giving just an introduction how to work with this and the few websites which helped me.
-https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+I would like to thank the Uoft teaching team for giving an introduction how to work with this. 
 
 ## License
-UoFT licence
+UofT licence
 
 ## 💡 Reference
 * [MDN Web Docs on HTML elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
@@ -29,6 +36,8 @@ UoFT licence
 * [MDN Web Docs on HTML section heading elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 
 * [Full-Stack Blog HTML Cheatsheet](https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet)
+
+* https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 © 2023 Sonia Sebastian Moothedan Confidential and Proprietary. All Rights Reserved.
 
